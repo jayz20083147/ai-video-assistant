@@ -1,0 +1,30 @@
+# Web Framework
+streamlit>=1.35.0
+
+# Audio Ingestion & Conversion
+yt-dlp>=2024.4.9
+ffmpeg-python>=0.2.0
+
+# Transcription & Translation
+faster-whisper>=1.0.2
+openai-whisper>=20231117
+
+# LLM Orchestration & LangChain
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-mistralai>=0.1.7
+mistralai>=1.0.0
+
+# Vector Database & Embeddings
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+torch>=2.2.0
+
+# Data Validation & Utilities
+pydantic>=2.7.0
+python-dotenv>=1.0.1
+tenacity>=8.3.0
+tiktoken>=0.7.0
+
+# Exporting
+fpdf2>=2.7.9
